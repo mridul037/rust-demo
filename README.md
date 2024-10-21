@@ -1,3 +1,7 @@
-#### auth_service : demo code for authentication service in rust using crates and module 
-#### langdector : a simple application that have the capacity to detect over 80 languages.
+## RUST PROJECTS
 
+#### auth_service
+Demo code for an authentication service in Rust using various crates and modules.
+
+#### langdector
+A simple application that has the capacity to detect over 80 languages.
