@@ -1,21 +1,21 @@
 ## RUST PROJECTS
 
 #### cli
-this is a simple command-line interface (CLI) application built in Rust. It allows users to perform various tasks and retrieve information through intuitive commands.
+this is a simple command-line interface (CLI) application built in Rust. It allows users to perform various tasks and retrieve information through intuitive commands. \n
 ```cargo run -- --get <command>```
-
+\n
 Commands
 contact: Displays contact information.
 address: Displays address details.
 info: Shows personal information.
 social: Provides social media links.
 help: Displays the available commands
-
+\n 
 ##### Example
 To get your contact information:
-cargo run -- --get contact
+  cargo run -- --get contact
 To see available commands:
-cargo run -- --get help
+  cargo run -- --get help
 
 
 #### auth_service
