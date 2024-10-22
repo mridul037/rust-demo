@@ -4,7 +4,8 @@
 this is a simple command-line interface (CLI) application built in Rust. 
 It allows users to perform various tasks and retrieve information through intuitive commands. 
 ```bash
-cargo run -- --get <command>1```
+cargo run -- --get <command>
+```
 
 Commands
 contact: Displays contact information.
