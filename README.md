@@ -7,18 +7,20 @@ It allows users to perform various tasks and retrieve information through intuit
 cargo run -- --get <command>
 ```
 
-Commands
-contact: Displays contact information.
-address: Displays address details.
-info: Shows personal information.
-social: Provides social media links.
-help: Displays the available commands
+### Commands
+
+- **contact**: Displays contact information.
+- **address**: Displays address details.
+- **info**: Shows personal information.
+- **social**: Provides social media links.
+- **help**: Displays the available commands.
+
 
 ##### Example
 To get your contact information:
-  cargo run -- --get contact
+  ```cargo run -- --get contact```
 To see available commands:
-  cargo run -- --get help
+  ```cargo run -- --get help```
 
 
 #### auth_service
