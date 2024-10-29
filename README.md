@@ -23,8 +23,8 @@ To see available commands:
   ```cargo run -- --get help```
 
 
-#### 2auth_service
+#### 2 Auth_service
 Demo code for an authentication service in Rust using various crates and modules.
  
-#### 3 langdector
+#### 3 Langdector
 A simple application that has the capacity to detect over 80 languages.
